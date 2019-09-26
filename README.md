@@ -26,4 +26,5 @@ public class LeapYear {
     }
 }
 
+hello guys
 I want some changes from the code to shorten the code
